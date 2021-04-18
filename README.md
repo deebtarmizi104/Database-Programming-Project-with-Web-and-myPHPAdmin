@@ -1,1 +1,1 @@
-# Database-Programming-Project-with-Web-and-myPHPAdmin
+# Database Programming Project with Web and myPHPAdmin
